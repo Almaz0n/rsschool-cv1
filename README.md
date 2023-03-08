@@ -1,25 +1,32 @@
 
-Nuriev Almaz
-Contacts
-Location: Tuymazı, Russia
-Email: 1iv2an3ov4@gmail.com
-GitHub: Almaz0n
-About Me
-I am 40 years old, single, I have a driver's license, I study English, I am fond of snowboarding, skiing, cycling and motorcycle.
+<img src="https://github.com/Almaz0n/Progects/blob/avotar/cat.jpg"  width="200" width="200">
 
-My strengths
-Responsible
-Discipline
-Honest
-Reliable
-Excellent logical thinking
-Skills
-HTML
-CSS
-JavaScript (Basic)
-Git/GitHub
-Phyton
-Code Example
+# Nuriev Almaz
+
+## Contacts
+* Location: Tuymazı, Russia
+* Email: 1iv2an3ov4@gmail.com
+* GitHub: Almaz0n
+
+## About Me
+I am 40 years old, single, I have a driver's license, I study English, I am fond of snowboarding, skiing, cycling and motorcycle.
+ 
+## My strengths
+* Responsible
+* Discipline
+* Honest
+* Reliable
+* Excellent logical thinking
+
+## Skills
+* HTML
+* CSS
+* JavaScript (Basic)
+* Git/GitHub
+* Phyton
+
+## Code Example
+```
 <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
       rel="stylesheet"
@@ -44,13 +51,16 @@ Code Example
         margin-bottom: 1em;
       }
     </style>
-Education
+```
+    
+## Education
 Secondary special education, Pedagogical
+    
+## Languages
+* Russian - I am fluent
+* English - A1 (B2 in process…)
+* Tatar - native speaker
+* Bashkir - I am fluent
 
-Languages
-Russian - I am fluent
-English - A1 (B2 in process…)
-Tatar - native speaker
-Bashkir - I am fluent
-Self-education (study project) (HTML, CSS, BOOTSTRAP)
-githab
+## Self-education (study project) (HTML, CSS, BOOTSTRAP)
++ [githab](https://github.com/Almaz0n/Progects/tree/Projects-html "Описание")
