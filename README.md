@@ -5,7 +5,7 @@
 
 ## Contacts
 * Location: Tuymazı, Russia
-* Email: 1iv2an3ov4@gmail.com
+* Email: 1iv2an****@gmail.com
 * GitHub: Almaz0n
 
 ## About Me
@@ -23,7 +23,7 @@ I am 40 years old, single, I have a driver's license, I study English, I am fond
 * CSS
 * JavaScript (Basic)
 * Git/GitHub
-* Phyton
+* Phyton (Basic)
 
 ## Code Example
 ```
