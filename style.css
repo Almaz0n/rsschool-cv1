@@ -1,0 +1,44 @@
+.special.paragraph {
+    color: aqua;
+}
+
+.paragraph {
+    width: 300px;
+    height: 100px;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid black;
+    color: brown;
+    font-weight: 700;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.list {
+    background-color: bisque;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
+}
+
+.listItem {
+    font-size: large;
+    margin: 25px;
+}
+
+.list .listItem {
+    color: darkolivegreen;
+}
+
+.listItem:last-child {
+    color: purple;
+}
+
+.coolImage {
+    width: 50px;
+    height: 50px;
+
+    background: url(https://avatars.githubusercontent.com/u/11501370?s=280&v=4);
+    background-size: cover;
+}
+
