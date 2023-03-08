@@ -58,7 +58,7 @@ Secondary special education, Pedagogical
     
 ## Languages
 * Russian - I am fluent
-* English - A1 (B2 in process…)
+* English - A1 (B2 in process…) 
 * Tatar - native speaker
 * Bashkir - I am fluent
 
