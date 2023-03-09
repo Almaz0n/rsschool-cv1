@@ -1,5 +1,4 @@
-
-<img src="(https://github.com/Almaz0n/rsschool-cv/blob/rsschool-cv-html/cat.jpg)" alt="Avotar"  width="200" width="200">
+![avorar](https://github.com/Almaz0n/rsschool-cv/blob/rsschool-cv-html/AvoCat.png?raw=true)
 
 # Nuriev Almaz
 
