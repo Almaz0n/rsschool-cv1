@@ -1,11 +1,11 @@
 
-<img src="https://github.com/Almaz0n/Progects/blob/avotar/cat.jpg"  width="200" width="200">
+<img src="(https://github.com/Almaz0n/rsschool-cv/blob/rsschool-cv-html/cat.jpg)" alt="Avotar"  width="200" width="200">
 
 # Nuriev Almaz
 
 ## Contacts
 * Location: Tuymazı, Russia
-* Email: 1iv2an****@gmail.com
+* Email: *******@gmail.com
 * GitHub: Almaz0n
 
 ## About Me
@@ -63,4 +63,4 @@ Secondary special education, Pedagogical
 * Bashkir - I am fluent
 
 ## Self-education (study project) (HTML, CSS, BOOTSTRAP)
-+ [githab](https://github.com/Almaz0n/Progects/tree/Projects-html "Описание")
++ [githab Progects](https://github.com/Almaz0n/store1.github.io "Описание")
