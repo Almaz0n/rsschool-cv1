@@ -1,3 +1,3 @@
 # rsschool-cv
 CV
-[cv](https://almaz0n.github.io/rsschool-cv/ "ссылка на CV")
+[https://almaz0n.github.io/rsschool-cv/cv](https://almaz0n.github.io/rsschool-cv/cv "ссылка на CV")
