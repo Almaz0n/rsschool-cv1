@@ -20,7 +20,8 @@ I am 40 years old, single, I have a driver's license, I study English, I am fond
 ## Skills
 * HTML
 * CSS
-* JavaScript (Basic)
+* JavaScript
+* TypeScript (Basic)
 * Git/GitHub
 * Phyton (Basic)
 
